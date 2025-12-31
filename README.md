@@ -28,3 +28,12 @@
 ```bash
 git clone https://github.com/你的用户名/DoubaoGrabber.git
 cd DoubaoGrabber
+
+## ⚠️ 免责声明 (Disclaimer)
+本工具仅供学习 Python GUI 开发和 Selenium 自动化技术交流使用。
+本工具不提供任何破解服务，仅辅助下载用户有权访问的网页内容。
+使用者应遵守豆包 (Doubao) 平台的用户协议，因使用本工具导致的账号异常或其他法律风险，由使用者自行承担。
+
+## 🤝 交流与反馈
+如有问题、Bug 反馈或建议，欢迎提交 Issue 或加入交流群：
+QQ 交流群: 1026163188
