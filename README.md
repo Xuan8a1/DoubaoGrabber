@@ -28,6 +28,7 @@
 ```bash
 git clone https://github.com/你的用户名/DoubaoGrabber.git
 cd DoubaoGrabber
+```
 
 ## ⚠️ 免责声明 (Disclaimer)
 本工具仅供学习 Python GUI 开发和 Selenium 自动化技术交流使用。
