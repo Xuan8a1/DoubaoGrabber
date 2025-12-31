@@ -7,8 +7,7 @@
 
 **Doubao Image Grabber** 是一款基于 PyQt6 (Fluent Widgets) 和 Selenium 开发的现代化桌面工具，旨在帮助用户方便、快捷地捕获并批量下载豆包 (Doubao) AI 生成的**无水印原图**。
 
-![软件截图](screenshots/demo.png)
-*(建议在此处放一张软件运行时的截图，文件名为 demo.png 放入 screenshots 文件夹)*
+![软件截图](/demo.png)
 
 ## ✨ 核心功能 (Features)
 
